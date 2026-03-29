@@ -1,6 +1,9 @@
 torch
 torchvision
+numpy
+pillow
 matplotlib
 scikit-learn
-pillow
+seaborn
+opencv-python
 grad-cam
